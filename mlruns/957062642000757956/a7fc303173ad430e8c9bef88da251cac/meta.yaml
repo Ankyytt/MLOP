@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/OmniXXX/Desktop/MLOP/mlruns/957062642000757956/a7fc303173ad430e8c9bef88da251cac/artifacts
+end_time: 1749109265590
+entry_point_name: ''
+experiment_id: '957062642000757956'
+lifecycle_stage: active
+run_id: a7fc303173ad430e8c9bef88da251cac
+run_name: GradientBoosting
+run_uuid: a7fc303173ad430e8c9bef88da251cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109262296
+status: 3
+tags: []
+user_id: OmniXXX
